@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# Dalton Berg's React Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my portfolio website! This project showcases my work and skills as a Software Engineering student at Arizona State University.
+
+## Project Overview
+
+This portfolio was built using React, and it features responsive design, dynamic components, and integration with various libraries. The website includes sections like About Me, Skills, Experience, and Contact, each designed to present information clearly and professionally.
+
+## Technologies Used
+
+- **React.js**: For building the user interface.
+- **CSS3**: For styling and responsive design.
+- **React Icons**: For iconography.
+- **Git/GitHub**: For version control.
+- **Other Libraries**: Various other libraries and tools as needed.
+
+## Project Structure
+
+- **Components**: Individual React components are stored in the `src/WebsiteComponents/` directory.
+- **Styles**: CSS files for each component are stored in the `src/ComponentStyles/` directory.
+- **Images**: Images used on the website are stored in the `src/ImagesForPortfolioWeb/` directory.
 
 ## Available Scripts
 
@@ -11,60 +29,38 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The build is optimized for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### `npm run deploy`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Deploys the app to GitHub Pages.\
+Ensure you've configured the `homepage` field in `package.json` to point to your GitHub repository.
 
-### `npm run eject`
+## Deployment
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+The website can be deployed to GitHub Pages using the following commands:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Make sure the `homepage` field in `package.json` is set to `"https://<your-github-username>.github.io/<your-repo-name>"`
+2. Run `npm run deploy` to deploy the site.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Customization and Ejecting
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+If you need to customize the build configuration:
 
-## Learn More
+- You can use `npm run eject`, but note that this is a one-way operation.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contact Information
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Feel free to explore my website and reach out if you'd like to connect. You can find my contact details in the Contact section of the website.
 
-### Code Splitting
+- **Email**: [djberg3@asu.edu](mailto:djberg3@asu.edu)
+- **LinkedIn**: [Dalton Berg](https://www.linkedin.com/in/dalton-berg-9b0a33255)
+- **GitHub**: [daltonBergSoftware](https://github.com/daltonBergSoftware)
+- **Resume**: [View/Download](https://docs.google.com/document/d/1p5CRLHfcztSfQtB-C1KuaIOtNYUpFZef/edit?usp=sharing&ouid=113072996624668415413&rtpof=true&sd=true)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## License
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is open-source and available under the [MIT License](LICENSE).
