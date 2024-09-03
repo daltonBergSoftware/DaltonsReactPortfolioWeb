@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DaltonsReactPortfolioWeb/precache-manifest.e84c4421daad29fd0dc49e591f8c2b92.js"
+  "/DaltonsReactPortfolioWeb/precache-manifest.1521e9a1c2a31ad562b31901eeb13f84.js"
 );
 
 self.addEventListener('message', (event) => {
