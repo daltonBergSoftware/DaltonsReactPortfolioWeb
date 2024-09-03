@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DaltonsReactPortfolioWeb/static/css/main.8d210233.chunk.css",
+    "main.js": "/DaltonsReactPortfolioWeb/static/js/main.6c5db60b.chunk.js",
+    "main.js.map": "/DaltonsReactPortfolioWeb/static/js/main.6c5db60b.chunk.js.map",
+    "runtime~main.js": "/DaltonsReactPortfolioWeb/static/js/runtime~main.3e5425c4.js",
+    "runtime~main.js.map": "/DaltonsReactPortfolioWeb/static/js/runtime~main.3e5425c4.js.map",
+    "static/js/2.7ad1f5c0.chunk.js": "/DaltonsReactPortfolioWeb/static/js/2.7ad1f5c0.chunk.js",
+    "static/js/2.7ad1f5c0.chunk.js.map": "/DaltonsReactPortfolioWeb/static/js/2.7ad1f5c0.chunk.js.map",
+    "static/js/3.b52b6af5.chunk.js": "/DaltonsReactPortfolioWeb/static/js/3.b52b6af5.chunk.js",
+    "static/js/3.b52b6af5.chunk.js.map": "/DaltonsReactPortfolioWeb/static/js/3.b52b6af5.chunk.js.map",
+    "index.html": "/DaltonsReactPortfolioWeb/index.html",
+    "precache-manifest.e84c4421daad29fd0dc49e591f8c2b92.js": "/DaltonsReactPortfolioWeb/precache-manifest.e84c4421daad29fd0dc49e591f8c2b92.js",
+    "service-worker.js": "/DaltonsReactPortfolioWeb/service-worker.js",
+    "static/css/main.8d210233.chunk.css.map": "/DaltonsReactPortfolioWeb/static/css/main.8d210233.chunk.css.map",
+    "static/media/CamelbackWebsite.jpg": "/DaltonsReactPortfolioWeb/static/media/CamelbackWebsite.13b66753.jpg",
+    "static/media/DaltonsPortfolioPicture.jpg": "/DaltonsReactPortfolioWeb/static/media/DaltonsPortfolioPicture.8f28a545.jpg",
+    "static/media/GlobalTechEx-logo.png": "/DaltonsReactPortfolioWeb/static/media/GlobalTechEx-logo.60546e86.png",
+    "static/media/HikingPicWebsite.jpg": "/DaltonsReactPortfolioWeb/static/media/HikingPicWebsite.556d1812.jpg",
+    "static/media/PortfolioHomeBackgroundImg.jpeg": "/DaltonsReactPortfolioWeb/static/media/PortfolioHomeBackgroundImg.4bc35f96.jpeg",
+    "static/media/SedonaWebsite.jpg": "/DaltonsReactPortfolioWeb/static/media/SedonaWebsite.07996dc3.jpg"
+  }
+}
